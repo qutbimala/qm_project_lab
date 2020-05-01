@@ -2,3 +2,6 @@ Rock Quicken Family
 Welcome to GIT Training
 It's great to learn GIT
 Hopefully we will implement soon
+Git Git Git
+we are learning git
+from techu
